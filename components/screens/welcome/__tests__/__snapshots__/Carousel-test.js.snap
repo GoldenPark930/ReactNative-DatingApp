@@ -1,0 +1,1146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  collapsable={true}
+>
+  <RCTScrollView
+    contentContainerStyle={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "justifyContent": "center",
+      }
+    }
+    contentOffset={
+      Object {
+        "x": 0,
+        "y": 0,
+      }
+    }
+    grayDots={true}
+    horizontal={true}
+    onScroll={[Function]}
+    pagingEnabled={true}
+    removeClippedSubviews={true}
+    scrollEventThrottle={3750}
+    scrollsToTop={false}
+    showsHorizontalScrollIndicator={false}
+    showsVerticalScrollIndicator={false}
+    style={
+      Array [
+        Object {
+          "marginTop": 0,
+          "width": 750,
+        },
+        Object {
+          "height": 1194,
+        },
+      ]
+    }
+  >
+    <View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 100,
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+             
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+             
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            BROWSE
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            Find like-minded Couples and Singles.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            MATCH
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            If they like you too, we'll connect you.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            CONNECT
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            Chat with real Couples or Singles who share your interests.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            PRIVATE & DISCREET
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            Protect your identity. Easily block friends and family.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 100,
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+             
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+             
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            BROWSE
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            Find like-minded Couples and Singles.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            MATCH
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            If they like you too, we'll connect you.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            CONNECT
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            Chat with real Couples or Singles who share your interests.
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "justifyContent": "flex-start",
+              "padding": 25,
+              "width": 750,
+            },
+          ]
+        }
+      >
+        <Image
+          defaultSource={1}
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 494.6666666666667,
+              "marginBottom": 25,
+              "marginTop": 0,
+              "paddingTop": 0,
+              "width": 200,
+            }
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 50,
+                "justifyContent": "center",
+              },
+              Object {
+                "marginBottom": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontFamily": "montserrat",
+                  "fontSize": 22,
+                  "fontWeight": "800",
+                  "marginTop": 15,
+                },
+              ]
+            }
+          >
+            PRIVATE & DISCREET
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "height": 50,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "center",
+                  "color": "rgb(255,255,255)",
+                  "fontFamily": "omnes",
+                  "fontSize": 22,
+                  "textAlign": "center",
+                },
+                Object {
+                  "fontSize": 20,
+                },
+              ]
+            }
+          >
+            Protect your identity. Easily block friends and family.
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+  <View
+    pointerEvents="none"
+    style={
+      Object {
+        "alignItems": "center",
+        "bottom": 15,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgb(86,96,103)",
+            "borderColor": "rgb(86,96,103)",
+            "borderRadius": 6,
+            "borderWidth": 2,
+            "height": 12,
+            "marginBottom": 2,
+            "marginLeft": 4,
+            "marginRight": 4,
+            "marginTop": 2,
+            "width": 12,
+          },
+          Object {
+            "backgroundColor": "rgb(132, 89, 218)",
+            "borderColor": "rgb(132, 89, 218)",
+            "borderWidth": 2,
+            "height": 12,
+            "marginBottom": 2,
+            "marginLeft": 4,
+            "marginRight": 4,
+            "marginTop": 2,
+            "width": 12,
+          },
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgb(86,96,103)",
+            "borderColor": "rgb(86,96,103)",
+            "borderRadius": 6,
+            "borderWidth": 2,
+            "height": 12,
+            "marginBottom": 2,
+            "marginLeft": 4,
+            "marginRight": 4,
+            "marginTop": 2,
+            "width": 12,
+          },
+          null,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgb(86,96,103)",
+            "borderColor": "rgb(86,96,103)",
+            "borderRadius": 6,
+            "borderWidth": 2,
+            "height": 12,
+            "marginBottom": 2,
+            "marginLeft": 4,
+            "marginRight": 4,
+            "marginTop": 2,
+            "width": 12,
+          },
+          null,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgb(86,96,103)",
+            "borderColor": "rgb(86,96,103)",
+            "borderRadius": 6,
+            "borderWidth": 2,
+            "height": 12,
+            "marginBottom": 2,
+            "marginLeft": 4,
+            "marginRight": 4,
+            "marginTop": 2,
+            "width": 12,
+          },
+          null,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgb(86,96,103)",
+            "borderColor": "rgb(86,96,103)",
+            "borderRadius": 6,
+            "borderWidth": 2,
+            "height": 12,
+            "marginBottom": 2,
+            "marginLeft": 4,
+            "marginRight": 4,
+            "marginTop": 2,
+            "width": 12,
+          },
+          null,
+        ]
+      }
+    />
+  </View>
+</View>
+`;

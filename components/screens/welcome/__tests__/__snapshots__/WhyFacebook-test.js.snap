@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "rgb(44,57,65)",
+      "height": 1334,
+      "padding": 50,
+      "width": 750,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "column",
+          "height": 1284,
+          "justifyContent": "space-around",
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "rgb(255,255,255)",
+              "fontFamily": "omnes",
+              "fontSize": 18,
+              "textAlign": "left",
+            },
+            Object {
+              "fontFamily": "montserrat",
+              "fontSize": 16,
+              "fontWeight": "800",
+            },
+            Object {
+              "marginTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        WHY FACEBOOK?
+      </Text>
+      <View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "rgb(255,255,255)",
+                "fontFamily": "omnes",
+                "fontSize": 18,
+                "textAlign": "left",
+              },
+              Object {
+                "fontFamily": "montserrat",
+                "fontSize": 16,
+                "fontWeight": "800",
+              },
+              Object {},
+            ]
+          }
+        >
+          USER PRIVACY
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "rgb(255,255,255)",
+                "fontFamily": "omnes",
+                "fontSize": 18,
+                "textAlign": "left",
+              },
+              Object {},
+            ]
+          }
+        >
+          By signing up with Facebook, we can block your profile from your Facebook friends.
+        </Text>
+      </View>
+      <View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "rgb(255,255,255)",
+                "fontFamily": "omnes",
+                "fontSize": 18,
+                "textAlign": "left",
+              },
+              Object {
+                "fontFamily": "montserrat",
+                "fontSize": 16,
+                "fontWeight": "800",
+              },
+              Object {},
+            ]
+          }
+        >
+          NO FAKE USERS
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "rgb(255,255,255)",
+                "fontFamily": "omnes",
+                "fontSize": 18,
+                "textAlign": "left",
+              },
+              Object {},
+            ]
+          }
+        >
+          Facebook does a pretty good job at purging fake users. Signing up with Facebook lowers the chances of fake users joining Trippple.
+        </Text>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "rgb(86,96,103)",
+            "borderRadius": 50,
+            "opacity": 1,
+            "padding": 10,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Image
+          source={1}
+          style={
+            Object {
+              "height": 15,
+              "width": 15,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

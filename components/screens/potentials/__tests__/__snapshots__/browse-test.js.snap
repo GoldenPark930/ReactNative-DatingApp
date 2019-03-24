@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 66,
+    }
+  }
+>
+  <BlurView
+    blurAmount={10}
+    blurType="dark"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+        },
+        Object {
+          "backgroundColor": "rgba(86,96,103,.80)",
+          "height": 50,
+          "position": "absolute",
+          "top": 0,
+          "width": 750,
+          "zIndex": 9999,
+        },
+      ]
+    }
+  >
+    <ScrollView
+      contentContainerStyle={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "transparent",
+          "minWidth": 750,
+        }
+      }
+      horizontal={true}
+      showsHorizontalScrollIndicator={false}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "height": 50,
+          "width": 750,
+        }
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "flexGrow": 1,
+            "height": 45,
+            "justifyContent": "center",
+            "opacity": 1,
+            "overflow": "hidden",
+          }
+        }
+        testID={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontFamily": "Montserrat",
+              "opacity": 1,
+            }
+          }
+        >
+          NEWEST
+        </Text>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "flexGrow": 1,
+            "height": 45,
+            "justifyContent": "center",
+            "opacity": 1,
+            "overflow": "hidden",
+          }
+        }
+        testID={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontFamily": "Montserrat",
+              "opacity": 0.6,
+            }
+          }
+        >
+          POPULAR
+        </Text>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "flexGrow": 1,
+            "height": 45,
+            "justifyContent": "center",
+            "opacity": 1,
+            "overflow": "hidden",
+          }
+        }
+        testID={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontFamily": "Montserrat",
+              "opacity": 0.6,
+            }
+          }
+        >
+          NEARBY
+        </Text>
+      </View>
+    </ScrollView>
+  </BlurView>
+  <ScrollView
+    contentContainerStyle={
+      Object {
+        "alignSelf": "stretch",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexWrap": "wrap",
+        "justifyContent": "space-around",
+        "paddingHorizontal": 5,
+        "width": 750,
+      }
+    }
+    dataSource={
+      ListViewDataSource {
+        "items": 0,
+      }
+    }
+    enableEmptySections={true}
+    initialListSize={6}
+    onContentSizeChange={[Function]}
+    onEndReached={[Function]}
+    onEndReachedThreshold={1800}
+    onKeyboardDidHide={undefined}
+    onKeyboardDidShow={undefined}
+    onKeyboardWillHide={undefined}
+    onKeyboardWillShow={undefined}
+    onLayout={[Function]}
+    onScroll={[Function]}
+    pageSize={6}
+    refreshControl={
+      <RefreshControl
+        onRefresh={[Function]}
+        refreshing={undefined}
+      />
+    }
+    removeClippedSubviews={true}
+    renderRow={[Function]}
+    scrollEventThrottle={50}
+    scrollRenderAheadDistance={400}
+    stickyHeaderIndices={Array []}
+    style={
+      Object {
+        "alignSelf": "center",
+        "flexDirection": "column",
+        "paddingTop": 65,
+      }
+    }
+  />
+</View>
+`;
